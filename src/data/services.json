@@ -1,32 +1,33 @@
 [
    {
-      "icon": "feather:code",
-      "name": "Código personalizado",
-      "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
-   },
-   {
       "icon": "feather:users",
       "name": "Facilidad de uso",
-      "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam iquam vel nibh amet, vitae at purus dui semper vel facilisis enim vel nibh amet, vitae at purus dui semper vel facilisis enim"
+      "content": "Las tecnologías deben ser accesible para todos. Es por eso que tomo con seriedad la accesibilidad en cada aspecto de mis productos."
    },
+   {
+      "icon": "feather:code",
+      "name": "Código personalizado",
+      "content": "Diseño y creo soluciones digitales a medida que se adaptan perfectamente a tus necesidades."
+   },
+
    {
       "icon": "feather:search",
       "name": "Optimizado para SEO",
-      "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
-   },
-   {
-      "icon": "feather:trending-up",
-      "name": "Aumenta to visibilidad",
-      "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at vitae a vitae a purus dui semper vel facilisis enim"
+      "content": "Mi misión es ayudarlo a destacar en los motores de búsqueda. Mi compromiso con la excelencia en SEO (Search Engine Optimization) es lo que me distingue."
    },
    {
       "icon": "feather:smartphone",
       "name": "Listo para móvil",
-      "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
+      "content": "Me enorgullece ofrecer una experiencia completamente optimizada para móviles que permiten acceder a tu contenido sin importar qué dispositivos usen tus clientes."
+   },
+   {
+      "icon": "feather:trending-up",
+      "name": "Aumenta to visibilidad",
+      "content": "La visibilidad en línea es esencial en la era digital. Priorizo que destaques entre la multitud y llegues a tu audiencia objetivo de manera efectiva."
    },
    {
       "icon": "feather:home",
       "name": "Construye tu hogar en la web",
-      "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
+      "content": "Cada persona y cada negocio tiene una historia que contar, y qué mejor lugar para contarla que en la web. Brindo las herramientas y la libertad para parsonalizar tu propio sitio web."
    }
 ]
