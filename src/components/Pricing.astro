@@ -1,0 +1,39 @@
+---
+import { Icon } from "astro-icon";
+import Button from "./Button.astro";
+import data from "../data/pricing";
+---
+
+<section class="pricing-wrapper">
+   <div class="grid-sm">
+      <h2 class="h2">Un precio para todos</h2>
+      <p class="text-muted">Tres tiers para satisfacer sus necesidades.</p>
+   </div>
+   <div class="pricing-container container-sm blur">
+      {
+         data.map((card) => (
+            <div class:list={["pricing-card", "grid-sm", card?.featured && "featured"]}>
+               <div>
+                  <p class="pricing-card-price">{card.price}</p>
+                  <h3 class="pricin-card-pill">{card.plan}</h3>
+               </div>
+               <p class="pricing-card-description text-muted">{card.description}</p>
+               <ul class="pricing-card-feature-container">
+                  {card.details.map((feature) => (
+                     <li class="pricing-card-feature">
+                        <Icon
+                           name="feather:check-circle"
+                           width="24"
+                           class:list={[card?.featured ? "text-accent2" : "text-alt"]}
+                        />
+                        <span>{feature}</span>
+                     </li>
+                  ))}
+               </ul>
+               <Button text={card.button.text} link={card.button.url} style={card.button.style} />
+               <small class="text-muted">{card.subtext}</small>
+            </div>
+         ))
+      }
+   </div>
+</section>

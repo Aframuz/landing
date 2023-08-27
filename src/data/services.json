@@ -1,32 +1,32 @@
 [
    {
       "icon": "feather:code",
-      "name": "Custom Coding",
+      "name": "Código personalizado",
       "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
    },
    {
       "icon": "feather:users",
-      "name": "User Friendly",
+      "name": "Facilidad de uso",
       "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam iquam vel nibh amet, vitae at purus dui semper vel facilisis enim vel nibh amet, vitae at purus dui semper vel facilisis enim"
    },
    {
       "icon": "feather:search",
-      "name": "SEO Optimized",
+      "name": "Optimizado para SEO",
       "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
    },
    {
       "icon": "feather:trending-up",
-      "name": "Built for Growth",
+      "name": "Aumenta to visibilidad",
       "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at vitae a vitae a purus dui semper vel facilisis enim"
    },
    {
       "icon": "feather:smartphone",
-      "name": "Ready for Mobile",
+      "name": "Listo para móvil",
       "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
    },
    {
       "icon": "feather:home",
-      "name": "Feels like you",
+      "name": "Construye tu hogar en la web",
       "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
    }
 ]
